@@ -14,7 +14,7 @@ on:
 
 env:
   MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni -b twrp-10.0-deprecated
-  DEVICE: KD7
+  DEVICE: Y21
   DT_LINK: https://github.com/ArifqiPy/arifqirepos
   DT_PATH: device/VIVO/Y21
   TARGET: recoveryimage
